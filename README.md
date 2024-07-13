@@ -95,5 +95,5 @@ To re-create a HTML page based on the given image.
 </html>
 ~~~
 # OUTPUT
-![Screenshot (137)](https://github.com/user-attachments/assets/8526bc41-5071-432f-9a35-cb20f820377f)
+![Screenshot (137)](https://github.com/user-attachments/assets/452dd3c6-e988-4e7e-9878-cc83fd569714)
 
